@@ -1,11 +1,10 @@
-planning
-========
 
-## Ideas
+## Upcoming Meeting (Feb 1)
+* Send reminder email: Bring toy, LED flashlight (Rob)
+* Buy LEDS and Resistors (Ryan)
 * Battery + LED idea to explain circuits
 * Battery + Breadboard + LED
 * Able explain: Ground, Voltage, Current, resistance, amperage
-
 * Voltage measuring preprinted sheet of battery combos
 
 ```
@@ -15,7 +14,6 @@ AA
 AAx2
 ```
 
-* Send reminder email: Bring toy, LED flashlight
 
 ## Inventory/Stuff to buy
 * Wire/jumpers
@@ -27,7 +25,7 @@ AAx2
 * Coin batteries
 * voltage meter
 
-## Sponsors
+## Potential Sponsors
 * UDRI
 * Yaskawa
 * Electroshield (Components)
