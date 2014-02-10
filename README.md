@@ -1,4 +1,3 @@
-
 ## Upcoming Meeting (Feb 1)
 * Send reminder email: Bring toy, LED flashlight (Rob)
 * Buy LEDS and Resistors (Ryan)
@@ -24,6 +23,7 @@ AAx2
 * box -o- batteries
 * Coin batteries
 * voltage meter
+* Buy MicroSD cards for kids/parents to buy
 
 ## Potential Sponsors
 * UDRI
